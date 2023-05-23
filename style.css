@@ -826,7 +826,7 @@ body{
     }
 
 }
-    @media only screen and (max-width: 450px) {
+    @media only screen and (max-width: 420px) {
 
     #greet {
         font-size: 22px;
